@@ -1,0 +1,12 @@
+[alias]
+	s=status
+	co = checkout
+	
+[log]
+ 	date = human
+
+[color]
+ 	ui = auto
+
+[init]
+	defaultBranch = main
